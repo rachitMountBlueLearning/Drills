@@ -116,3 +116,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Personal files created for my reference
+./001CLI/001CLI02/01\ Pipes.sh
+./001CLI/001CLI02/02\ Processes,\ ports.sh
+./001CLI/001CLI02/03\ Managing\ Software.sh
+./001CLI/001CLI02/04\ Misc.sh
+./001CLI/001CLI02/Harry\ Potter\ and\ the\ Goblet\ of\ Fire.txt
