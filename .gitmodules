@@ -1,0 +1,9 @@
+[submodule "003JavaScript/003JavaScript001"]
+	path = 003JavaScript/003JavaScript001
+	url = git@github.com:rachitMountBlueLearning/Drills003JavaScript001.git
+[submodule "003JavaScript/003JavaScript002"]
+	path = 003JavaScript/003JavaScript002
+	url = git@github.com:rachitMountBlueLearning/Drills003JavaScript002.git
+[submodule "002SoftSkills"]
+	path = 002SoftSkills
+	url = git@github.com:rachitMountBlueLearning/Soft-Skills-Drills-01.git
